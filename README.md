@@ -1,7 +1,8 @@
 ## Project Name: 'JUMPGUY'
 
-### Installation
+### Installation & Playing 
 
+Download and extract the [packaged Windows game files](https://drive.google.com/file/d/1Fwo5zegS_VKbdWsYQlspomo3Y23DpdE_/view?usp=sharing) then run JumpGuy.exe
 
 ### Contribution Videos
 
