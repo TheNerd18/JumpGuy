@@ -1,5 +1,9 @@
 ## Project Name: 'JUMPGUY'
 
+### E3 2021 Gameplay Reveal Trailer
+
+A link to the gameplay video game be found [here]()
+
 ### Installation & Playing 
 
 Download and extract the [packaged Windows game files](https://drive.google.com/file/d/1Fwo5zegS_VKbdWsYQlspomo3Y23DpdE_/view?usp=sharing) then run JumpGuy.exe
