@@ -1,9 +1,9 @@
 ## Project Name: 'JUMPGUY'
 
-###Installation
+### Installation
 
 
-###Contribution Videos
+### Contribution Videos
 
 |Name|Link|
 |----|----|
@@ -14,7 +14,8 @@
 |Kei||
 |Shayne||
 
-###Assets Used
+
+### Assets Used
 |Pack Name|Origin|
 |---------|------|
 |Dreamscape Meadows|Unreal Marketplace| 
