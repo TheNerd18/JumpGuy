@@ -2,7 +2,7 @@
 
 ### E3 2021 Gameplay Reveal Trailer
 
-A link to the gameplay video game be found [here]()
+A link to the gameplay video game be found [here](https://drive.google.com/file/d/1oOLvNlGYu-FnzfsTwYrk9siUPJvgdZSE/view?usp=sharing)
 
 ### Installation & Playing 
 
